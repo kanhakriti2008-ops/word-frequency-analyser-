@@ -45,3 +45,31 @@ over : 1
 lazy : 1
 dog : 1
 runs : 1
+
+Enter a sentence:
+Fair is foul and foul is fair hover through the fog and filthy air double double toil and trouble fire burn and cauldron bubble by the pricking of my thumbs something wicked this way comes
+
+Word Frequencies:
+the : 2
+double : 2
+hover : 1
+fog : 1
+filthy : 1
+air : 1
+through : 1
+toil : 1
+trouble : 1
+fire : 1
+burn : 1
+cauldron : 1
+bubble : 1
+by : 1
+pricking : 1
+of : 1
+my : 1
+thumbs : 1
+something : 1
+wicked : 1
+this : 1
+way : 1
+comes : 1
