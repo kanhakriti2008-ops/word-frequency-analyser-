@@ -26,7 +26,7 @@ foundational programming logic.
 Java (core — arrays, loops, string manipulation, selection sort)
 
 ## Sample Visualisation 
-<img width="859" height="581" alt="2026081314445854" src="https://github.com/user-attachments/assets/e7079d28-6b76-4cd8-9eda-5b6f4cda27a6" />
+<img width="859" height="581" alt="Untitled" src="https://github.com/user-attachments/assets/12c90a62-ddc0-466f-9e20-1bc57f3c3d59" />
 
 ## How to run
 1. Compile: `javac WordFrequencyAnalyzer.java`
