@@ -50,6 +50,10 @@ Enter a sentence:
 Fair is foul and foul is fair hover through the fog and filthy air double double toil and trouble fire burn and cauldron bubble by the pricking of my thumbs something wicked this way comes
 
 Word Frequencies:
+and : 4
+is : 2
+foul : 2
+fair : 2
 the : 2
 double : 2
 hover : 1
