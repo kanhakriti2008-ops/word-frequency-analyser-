@@ -36,20 +36,6 @@ Java (core — arrays, loops, string manipulation, selection sort)
 
 ## Sample run
 Enter a sentence:
-the quick brown fox jumps over the lazy dog the fox runs
-
-Word Frequencies:
-the : 3
-fox : 2
-quick : 1
-brown : 1
-jumps : 1
-over : 1
-lazy : 1
-dog : 1
-runs : 1
-
-Enter a sentence:
 Fair is foul and foul is fair hover through the fog and filthy air double double toil and trouble fire burn and cauldron bubble by the pricking of my thumbs something wicked this way comes
 
 Word Frequencies:
